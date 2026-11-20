@@ -11042,7 +11042,7 @@ body .memory-card .content {
 
 /* 1. “取消”按钮 */
 #close-sticker-panel-btn {
-    background-image: url('https://file.zhuyitai.com/feedback/202511/01/49de58e606103102a42864ec5e5d35b1.png'); 
+    background-image: url('https://xffkws.iflytek.com/group1/M01/23/05/rB_aXmr_tWiAaJ2UAABQzS-LHEQ449.png'); 
 }
 
 /* 2. “分类”按钮 */
@@ -11320,7 +11320,7 @@ border-top: none !important;
 /* 只往下移动右侧的“更多操作”三个点按钮 */
 #qzone-more-actions-btn {
     position: relative !important;
-    top: 3.5px !important; /* 你可以修改这个数值，越大越往下（例如改成 6px, 8px 等） */
+    top: 5px !important; /* 你可以修改这个数值，越大越往下（例如改成 6px, 8px 等） */
     
     /* 为了保证三个点居中好看，你也可以加上这行让它垂直方向对齐更好看：*/
     display: inline-block !important; 
